@@ -1,8 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file>Resources/clock.png</file>
-        <file>Resources/kindle.png</file>
-        <file>Resources/program_small.png</file>
-        <file>Resources/westlife.mp3</file>
-    </qresource>
-</RCC>
